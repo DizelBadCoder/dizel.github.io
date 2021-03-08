@@ -758,6 +758,12 @@ button:focus {
   font-size: 16px;
 }
 
+.swiper-slide-blocktop__image {
+  width: 5em;
+  height: 5em;
+  border-radius: 100px;
+}
+
 .swiper-slide-content {
   color: #ffffff;
   font-family: "Gilroy";
